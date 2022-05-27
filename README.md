@@ -5,7 +5,7 @@
 ## Jazz Music Application ##
 
 ### Track 2:  Prototype ###
-### Problem Statement:###
+### Problem Statement: ###
 ## 1.Create a music player ##
  ### Team Members ###
  [Tannu Sharma](https://github.com/tan404)
