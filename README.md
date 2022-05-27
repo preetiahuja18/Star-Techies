@@ -6,7 +6,7 @@
 
 ### Track 2:  Prototype ###
 ### Problem Statement: ###
-## 1.Create a music player ##
+## Create a music player ##
  ### Team Members ###
  [Tannu Sharma](https://github.com/tan404)
  [Preeti Ahuja](https://github.com/preetiahuja18)
